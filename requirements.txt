@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+sqlite3
+spacy
+python-dotenv
+pyodbc
